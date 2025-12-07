@@ -1,0 +1,19 @@
+Devine mon age
+
+Variable :
+year : int
+age : int
+x : input
+
+Afficher "Hi my G"
+
+Début
+  Saisir <year>
+  Afficher "Thank"
+  <age> est egal a 2025 moins <year>
+  Afficher "You are <age> year old !"
+  Saisr <x>
+  Si <x> est egal a "N"
+    Afficher "Good Bye !"
+    Afficher "Adam ©"
+    Fin
